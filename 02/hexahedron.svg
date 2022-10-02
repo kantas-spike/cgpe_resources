@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="テクスチャ.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:zoom="0.68111408"
+     inkscape:cx="438.98667"
+     inkscape:cy="522.67309"
+     inkscape:window-width="1701"
+     inkscape:window-height="952"
+     inkscape:window-x="2003"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid33"
+       empspacing="128" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e5ffe2;fill-opacity:1;stroke-width:0.264583"
+       id="rect31"
+       width="67.733337"
+       height="67.733337"
+       x="101.60001"
+       y="0" />
+    <g
+       id="g43465"
+       transform="translate(-1.2856804)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="124.03967"
+         y="27.793222"
+         id="text3602"><tspan
+           sodipodi:role="line"
+           id="tspan3600"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.4px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';stroke-width:0.264583"
+           x="124.03967"
+           y="27.793222">前</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="115.83103"
+         y="56.150562"
+         id="text3602-4"><tspan
+           sodipodi:role="line"
+           id="tspan3600-7"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.5778px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Semi-Bold';stroke-width:0.264583"
+           x="115.83103"
+           y="56.150562">(-y)</tspan></text>
+    </g>
+    <g
+       id="g69251"
+       transform="rotate(90,135.46667,169.33333)">
+      <rect
+         style="fill:#e5ffe2;fill-opacity:1;stroke-width:0.264583"
+         id="rect31-7-0"
+         width="67.733337"
+         height="67.733337"
+         x="101.6"
+         y="135.46666" />
+      <g
+         id="g69243"
+         transform="translate(-3.2071301)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="126.01189"
+           y="162.97615"
+           id="text3602-41"><tspan
+             sodipodi:role="line"
+             id="tspan3600-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="126.01189"
+             y="162.97615">後</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="114.66566"
+           y="191.3335"
+           id="text3602-4-8"><tspan
+             sodipodi:role="line"
+             id="tspan3600-7-3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="114.66566"
+             y="191.3335">(+y)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g69281"
+       transform="rotate(90,135.46667,237.06667)">
+      <rect
+         style="fill:#fde3e3;fill-opacity:1;stroke-width:0.264583"
+         id="rect31-7-0-3"
+         width="67.733337"
+         height="67.733337"
+         x="101.6"
+         y="203.2" />
+      <g
+         id="g69273"
+         transform="translate(0.32949102,1.0904269)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="122.81818"
+           y="230.56763"
+           id="text3602-41-2"><tspan
+             sodipodi:role="line"
+             id="tspan3600-8-2"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="122.81818"
+             y="230.56763">左</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="114.34814"
+           y="258.92496"
+           id="text3602-4-8-6"><tspan
+             sodipodi:role="line"
+             id="tspan3600-7-3-6"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="114.34814"
+             y="258.92496">(-x)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g69189">
+      <rect
+         style="fill:#e4f1ff;fill-opacity:1;stroke-width:0.264583"
+         id="rect31-7-9"
+         width="67.733337"
+         height="67.733337"
+         x="33.866665"
+         y="67.733337" />
+      <g
+         id="g43465-1"
+         transform="translate(-68.026841,67.750467)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="124.03967"
+           y="27.793222"
+           id="text3602-5"><tspan
+             sodipodi:role="line"
+             id="tspan3600-3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="124.03967"
+             y="27.793222">下</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="115.83103"
+           y="56.150562"
+           id="text3602-4-5"><tspan
+             sodipodi:role="line"
+             id="tspan3600-7-4"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="115.83103"
+             y="56.150562">(-z)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g69233"
+       transform="rotate(90,135.46666,101.60001)">
+      <rect
+         style="fill:#fde3e3;fill-opacity:1;stroke-width:0.264583"
+         id="rect31-7"
+         width="67.733337"
+         height="67.733337"
+         x="101.59999"
+         y="67.733337" />
+      <g
+         id="g69207">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="123.02066"
+           y="96.127892"
+           id="text3602-5-6"><tspan
+             sodipodi:role="line"
+             id="tspan3600-3-5"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="123.02066"
+             y="96.127892">右</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="111.59081"
+           y="124.48523"
+           id="text3602-4-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan3600-7-4-5"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="111.59081"
+             y="124.48523">(+x)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g69225"
+       transform="rotate(180,203.2,101.60001)">
+      <rect
+         style="fill:#e4f1ff;fill-opacity:1;stroke-width:0.264583"
+         id="rect31-7-9-9"
+         width="67.733337"
+         height="67.733337"
+         x="169.33333"
+         y="67.733337" />
+      <g
+         id="g69217"
+         transform="translate(-1.9683586,1.7180683)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="192.39215"
+           y="94.219322"
+           id="text3602-5-6-9"><tspan
+             sodipodi:role="line"
+             id="tspan3600-3-5-1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="192.39215"
+             y="94.219322">上</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="182.1524"
+           y="122.57666"
+           id="text3602-4-5-9-7"><tspan
+             sodipodi:role="line"
+             id="tspan3600-7-4-5-5"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="182.1524"
+             y="122.57666">(+z)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g69197"
+       transform="rotate(90,135.46668,33.866669)">
+      <rect
+         style="fill:#e5ffe2;fill-opacity:1;stroke-width:0.264583"
+         id="rect69171"
+         width="67.733337"
+         height="67.733337"
+         x="101.60001"
+         y="0" />
+      <g
+         id="g69181"
+         transform="translate(-1.2856804,0.3924849)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="124.03967"
+           y="27.793222"
+           id="text69175"><tspan
+             sodipodi:role="line"
+             id="tspan69173"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="124.03967"
+             y="27.793222">前</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="115.83103"
+           y="56.150562"
+           id="text69179"><tspan
+             sodipodi:role="line"
+             id="tspan69177"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:'BIZ UDGothic';-inkscape-font-specification:'BIZ UDGothic Bold';stroke-width:0.264583"
+             x="115.83103"
+             y="56.150562">(-y)</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
