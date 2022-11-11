@@ -25,6 +25,6 @@ LibreOffice Writer用の絵コンテシートのテンプレート
 
 LibreOffice Writer用のパーツシートのテンプレート
 
-### パート.pdf
+### パーツ.pdf
 
 パーツ.odtをPDFに変換したもの
