@@ -44,7 +44,7 @@ Blenderをスプラッシュ画面を非表示で起動し、不要な立方体�
 
 ## 字幕ファイルから文字を表示する
 
-### [create-subtitles-movie.py.py](create-subtitles-movie.py.py)
+### [create-subtitles-movie.py](create-subtitles-movie.py.py)
 
 SubRip形式の字幕ファイルから文字を表示するスクリプト
 
