@@ -51,15 +51,15 @@ SubRip形式の字幕ファイルから文字を表示するスクリプト
 ターミナルから、以下のように使います。
 
 ~~~shell
-/Applications/Blender.app/Contents/MacOS/Blender -P ./create-subtitles-movie.py.py -- ./50on.srt -s 25
+/Applications/Blender.app/Contents/MacOS/Blender -P ./create-subtitles-movie.py -- ./50on.srt -s 25
 ~~~
 
-Blenderのコマンドライン引数の`--`以降の引数が、`create-subtitles-movie.py.py`への引数になります。
+Blenderのコマンドライン引数の`--`以降の引数が、`create-subtitles-movie.py`への引数になります。
 
 `--`以降に`-h`を
 
 ~~~shell
-% /Applications/Blender.app/Contents/MacOS/Blender -P ./create-subtitles-movie.py.py -- -h
+% /Applications/Blender.app/Contents/MacOS/Blender -P ./create-subtitles-movie.py -- -h
 Read prefs: /Users/kanta/Library/Application Support/Blender/3.3/config/userpref.blend
 hello!!
 ['-h']
