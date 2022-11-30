@@ -77,6 +77,36 @@ options:
 Saved session recovery to '/var/folders/8b/__pw1f4s56j1617cbx4qmq740000gp/T/quit.blend'
 ~~~
 
+### [create-subtitles-movie_v2.py](create-subtitles-movie_v2.py)
+
+SubRip形式の字幕ファイルから文字を表示するスクリプト(フレームレート指定可能版)
+
+ターミナルから、以下のように使います。
+
+~~~shell
+/Applications/Blender.app/Contents/MacOS/Blender -P ./create-subtitles-movie.py -- ./50on.srt -s 25 -r 60
+~~~
+
+使い方
+
+~~~shell
+Read prefs: /Users/kanta/Library/Application Support/Blender/3.3/config/userpref.blend
+
+usage: create-subtitles-movie.py [-h] [-s MOVIE_SEC] [-r FRAME_RATE] SRT_FILE
+
+指定された字幕ファイルの内容をムービーに変換する
+
+positional arguments:
+  SRT_FILE              SubRip形式の字幕ファイルのパス
+
+options:
+  -h, --help            show this help message and exit
+  -s MOVIE_SEC, --sec MOVIE_SEC
+                        作成するムービーの長さ(秒). デフォルト値: 60
+  -r FRAME_RATE, --fps FRAME_RATE
+                        フレームレート(fps). デフォルト値: 30
+~~~
+
 ### [my_blender.py](my_blender.py)
 
 `hello_*.py`でBlender操作に利用した関数を外部モジュールにしたもの
